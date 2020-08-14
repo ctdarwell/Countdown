@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597371291 source:c:\users\darwell\desktop\work\cpp\countdown\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<conio.h>
+	<thread>
+	<chrono>
+	<vector>
+	<algorithm>
+
